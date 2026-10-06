@@ -5,7 +5,7 @@ redirect_from:
   - /packet/gb7eat
 ---
 
-**GB7EAT is a Packet Radio BBS located in Eaton Ford, St Neots, Cambridgeshire, UK.**
+**GB7EAT is a Packet Radio BBS located in Eaton Ford, St Neots, Cambridgeshire, UK. IO92uf**
 
 | RF Port | Details |
 | --- | :--- |
